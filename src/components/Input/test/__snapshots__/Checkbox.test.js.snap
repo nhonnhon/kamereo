@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component Matches the snapshot 1`] = `
+<div
+  className="checkbox  "
+  onClick={[Function]}
+  style={
+    Object {
+      "alignItems": "",
+    }
+  }
+>
+  <div
+    className="icon"
+  />
+  <input
+    className="hide"
+    type="checkbox"
+  />
+  <label
+    className="pad-left "
+  >
+    <div
+      className="content"
+    />
+  </label>
+</div>
+`;

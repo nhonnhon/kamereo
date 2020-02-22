@@ -7,13 +7,13 @@ import { Home } from 'modules/StoreInformation'
 function App() {
   return (
     <div className="container">
-      <BrowserRouter>
+      {/* <BrowserRouter>
         <Switch>
-          <Route path="/" exact>
-            <Home />
-          </Route>
+          <Route path="/" exact> */}
+      <Home />
+      {/* </Route>
         </Switch>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </div>
   )
 }

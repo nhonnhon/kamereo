@@ -8,6 +8,8 @@
   > * {
     padding-left: 15px;
     padding-right: 15px;
+    flex: 0 0 100%;
+    max-width: 100%;
   }
 }
 
@@ -27,32 +29,98 @@
   justify-content: space-around;
 }
 
-.col-4 {
+.col {
+  @media (min-width: 992px) {
+    &-lg-4 {
+      flex: 0 0 33.3333%;
+      max-width: 33.3333%;
+    }
+
+    &-lg-8 {
+      flex: 0 0 66.6666%;
+      max-width: 66.6666%;
+    }
+
+    &-lg-5 {
+      flex: 0 0 41.66666%;
+      max-width: 41.66666%;
+    }
+
+    &-lg-7 {
+      flex: 0 0 58.333333%;
+      max-width: 58.333333%;
+    }
+
+    &-lg-3 {
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+
+    &-lg-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+
+  @media (min-width: 768px) {
+    &-md-4 {
+      flex: 0 0 33.3333%;
+      max-width: 33.3333%;
+    }
+
+    &-md-8 {
+      flex: 0 0 66.6666%;
+      max-width: 66.6666%;
+    }
+
+    &-md-5 {
+      flex: 0 0 41.66666%;
+      max-width: 41.66666%;
+    }
+
+    &-md-7 {
+      flex: 0 0 58.333333%;
+      max-width: 58.333333%;
+    }
+
+    &-md-3 {
+      flex: 0 0 25%;
+      max-width: 25%;
+    }
+
+    &-md-6 {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+  }
+}
+
+.col-xs-4 {
   flex: 0 0 33.3333%;
   max-width: 33.3333%;
 }
 
-.col-8 {
+.col-xs-8 {
   flex: 0 0 66.6666%;
   max-width: 66.6666%;
 }
 
-.col-5 {
+.col-xs-5 {
   flex: 0 0 41.66666%;
   max-width: 41.66666%;
 }
 
-.col-7 {
+.col-xs-7 {
   flex: 0 0 58.333333%;
   max-width: 58.333333%;
 }
 
-.col-3 {
+.col-xs-3 {
   flex: 0 0 25%;
   max-width: 25%;
 }
 
-.col-6 {
+.col-xs-6 {
   flex: 0 0 50%;
   max-width: 50%;
 }

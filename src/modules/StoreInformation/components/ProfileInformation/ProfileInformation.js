@@ -11,10 +11,10 @@ export default class ProfileInformation extends React.Component {
 
   renderInfoText = (leftText, rightText) => (
     <React.Fragment>
-      <div className="col-5">
+      <div className="col-xs-5">
         <p className="text gray">{`${leftText}:`}</p>
       </div>
-      <div className="col-7">
+      <div className="col-xs-7">
         <p className="text black">{rightText}</p>
       </div>
     </React.Fragment>
@@ -27,7 +27,7 @@ export default class ProfileInformation extends React.Component {
     const { openModal } = this.state
 
     return (
-      <div className="panel">
+      <div className="panel mb-2">
         <Avatar src={srcImg} />
         <div className="show-info">
           <h4 className="title-info mt-2 mb-1">{Lang.storeInfo.toUpperCase()}</h4>

@@ -121,9 +121,9 @@ class EditProfileModal extends React.Component {
         <div className="edit-profile">
           <h2 className="title-page mb-2">{Lang.editProfile}</h2>
           <div className="row">
-            <div className="col-4">
+            <div className="col-lg-4">
               <Avatar src={srcImg} />
-              <div className="d-flex justify-content-around">
+              <div className="d-flex justify-content-around mb-2">
                 <Button
                   className="mt-2"
                   onClick={this.removeFileUpload}
@@ -149,7 +149,7 @@ class EditProfileModal extends React.Component {
                 />
               </div>
             </div>
-            <div className="col-8">
+            <div className="col-lg-8">
               <h4 className="mb-2">{Lang.basicInfo.toUpperCase()}</h4>
               <Input
                 id="name"
@@ -170,7 +170,7 @@ class EditProfileModal extends React.Component {
                 label={Lang.phone}
               />
               <div className="row mb-2 align-items-end">
-                <div className="col-6">
+                <div className="col-lg-6">
                   <Input
                     id="address"
                     value={address}
@@ -181,7 +181,7 @@ class EditProfileModal extends React.Component {
                     label={Lang.storeAddress}
                   />
                 </div>
-                <div className="col-3">
+                <div className="col-lg-3">
                   <Dropdown
                     id="district"
                     label={''}
@@ -191,7 +191,7 @@ class EditProfileModal extends React.Component {
                     value={district}
                   />
                 </div>
-                <div className="col-3">
+                <div className="col-lg-3">
                   <Dropdown
                     id="city"
                     label={''}
@@ -213,7 +213,7 @@ class EditProfileModal extends React.Component {
                 label={Lang.companyName}
               />
               <div className="row mb-2 align-items-end">
-                <div className="col-6">
+                <div className="col-lg-6">
                   <Input
                     id="companyAddress"
                     value={companyAddress}
@@ -224,7 +224,7 @@ class EditProfileModal extends React.Component {
                     label={Lang.companyAddress}
                   />
                 </div>
-                <div className="col-3">
+                <div className="col-lg-3">
                   <Dropdown
                     id="companyDistrict"
                     label={''}
@@ -234,7 +234,7 @@ class EditProfileModal extends React.Component {
                     value={companyDistrict}
                   />
                 </div>
-                <div className="col-3">
+                <div className="col-lg-3">
                   <Dropdown
                     id="companyCity"
                     label={''}

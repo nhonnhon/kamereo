@@ -15,10 +15,10 @@ class Home extends React.Component {
       <div className="pt-3 pb-3">
         <h2 className="title-page">Store Information</h2>
         <div className="row mt-2">
-          <div className="col-4">
+          <div className="col-md-4">
             <ProfileInformation data={data} />
           </div>
-          <div className="col-8">
+          <div className="col-md-8">
             <DeliveryMessage />
           </div>
         </div>

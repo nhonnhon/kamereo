@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component Matches the snapshot 1`] = `
+<a
+  className="btn  big white "
+  href="javascript: void(0)"
+>
+  <span
+    className="text  white big"
+  />
+</a>
+`;
