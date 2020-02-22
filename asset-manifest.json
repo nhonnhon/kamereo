@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kamereo/static/css/main.22c27fb0.chunk.css",
-    "main.js": "/kamereo/static/js/main.6bb0d278.chunk.js",
-    "main.js.map": "/kamereo/static/js/main.6bb0d278.chunk.js.map",
+    "main.js": "/kamereo/static/js/main.44fe127c.chunk.js",
+    "main.js.map": "/kamereo/static/js/main.44fe127c.chunk.js.map",
     "runtime-main.js": "/kamereo/static/js/runtime-main.2cebfb46.js",
     "runtime-main.js.map": "/kamereo/static/js/runtime-main.2cebfb46.js.map",
-    "static/js/2.2a20b5b9.chunk.js": "/kamereo/static/js/2.2a20b5b9.chunk.js",
-    "static/js/2.2a20b5b9.chunk.js.map": "/kamereo/static/js/2.2a20b5b9.chunk.js.map",
+    "static/js/2.3371ba5a.chunk.js": "/kamereo/static/js/2.3371ba5a.chunk.js",
+    "static/js/2.3371ba5a.chunk.js.map": "/kamereo/static/js/2.3371ba5a.chunk.js.map",
     "index.html": "/kamereo/index.html",
-    "precache-manifest.1f4f14ccc79f08195b147476c7b0013a.js": "/kamereo/precache-manifest.1f4f14ccc79f08195b147476c7b0013a.js",
+    "precache-manifest.90319e0a38e73f4f98048288f530c799.js": "/kamereo/precache-manifest.90319e0a38e73f4f98048288f530c799.js",
     "service-worker.js": "/kamereo/service-worker.js",
     "static/css/main.22c27fb0.chunk.css.map": "/kamereo/static/css/main.22c27fb0.chunk.css.map",
     "static/media/collapsible-arrow.svg": "/kamereo/static/media/collapsible-arrow.ef2915c0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2cebfb46.js",
-    "static/js/2.2a20b5b9.chunk.js",
+    "static/js/2.3371ba5a.chunk.js",
     "static/css/main.22c27fb0.chunk.css",
-    "static/js/main.6bb0d278.chunk.js"
+    "static/js/main.44fe127c.chunk.js"
   ]
 }

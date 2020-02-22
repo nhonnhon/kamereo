@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9506e71f8ce61bcb53449d3e0e467df6",
+    "revision": "167397c0b8820700fab565660084bb97",
     "url": "/kamereo/index.html"
   },
   {
-    "revision": "0916aec087f256e9f6f5",
+    "revision": "e70362f6033b4ef97176",
     "url": "/kamereo/static/css/main.22c27fb0.chunk.css"
   },
   {
-    "revision": "7755610650f6ad376641",
-    "url": "/kamereo/static/js/2.2a20b5b9.chunk.js"
+    "revision": "805c038c54cbe771355d",
+    "url": "/kamereo/static/js/2.3371ba5a.chunk.js"
   },
   {
-    "revision": "0916aec087f256e9f6f5",
-    "url": "/kamereo/static/js/main.6bb0d278.chunk.js"
+    "revision": "e70362f6033b4ef97176",
+    "url": "/kamereo/static/js/main.44fe127c.chunk.js"
   },
   {
     "revision": "3be707829f8e9d58afed",
