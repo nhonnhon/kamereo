@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kamereo/static/css/main.22c27fb0.chunk.css",
-    "main.js": "/kamereo/static/js/main.44fe127c.chunk.js",
-    "main.js.map": "/kamereo/static/js/main.44fe127c.chunk.js.map",
+    "main.css": "/kamereo/static/css/main.81401c17.chunk.css",
+    "main.js": "/kamereo/static/js/main.cb7e1066.chunk.js",
+    "main.js.map": "/kamereo/static/js/main.cb7e1066.chunk.js.map",
     "runtime-main.js": "/kamereo/static/js/runtime-main.2cebfb46.js",
     "runtime-main.js.map": "/kamereo/static/js/runtime-main.2cebfb46.js.map",
     "static/js/2.3371ba5a.chunk.js": "/kamereo/static/js/2.3371ba5a.chunk.js",
     "static/js/2.3371ba5a.chunk.js.map": "/kamereo/static/js/2.3371ba5a.chunk.js.map",
     "index.html": "/kamereo/index.html",
-    "precache-manifest.90319e0a38e73f4f98048288f530c799.js": "/kamereo/precache-manifest.90319e0a38e73f4f98048288f530c799.js",
+    "precache-manifest.e587d801312095c92dc712c98d55877e.js": "/kamereo/precache-manifest.e587d801312095c92dc712c98d55877e.js",
     "service-worker.js": "/kamereo/service-worker.js",
-    "static/css/main.22c27fb0.chunk.css.map": "/kamereo/static/css/main.22c27fb0.chunk.css.map",
+    "static/css/main.81401c17.chunk.css.map": "/kamereo/static/css/main.81401c17.chunk.css.map",
     "static/media/collapsible-arrow.svg": "/kamereo/static/media/collapsible-arrow.ef2915c0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2cebfb46.js",
     "static/js/2.3371ba5a.chunk.js",
-    "static/css/main.22c27fb0.chunk.css",
-    "static/js/main.44fe127c.chunk.js"
+    "static/css/main.81401c17.chunk.css",
+    "static/js/main.cb7e1066.chunk.js"
   ]
 }

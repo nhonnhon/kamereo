@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kamereo/precache-manifest.90319e0a38e73f4f98048288f530c799.js"
+  "/kamereo/precache-manifest.e587d801312095c92dc712c98d55877e.js"
 );
 
 self.addEventListener('message', (event) => {
