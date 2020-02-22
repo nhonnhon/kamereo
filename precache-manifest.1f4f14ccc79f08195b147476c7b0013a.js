@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d619c32039f2e177e683d01e50d878d",
+    "revision": "9506e71f8ce61bcb53449d3e0e467df6",
     "url": "/kamereo/index.html"
   },
   {
