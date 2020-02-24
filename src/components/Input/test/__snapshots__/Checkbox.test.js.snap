@@ -26,3 +26,30 @@ exports[`Button component Matches the snapshot 1`] = `
   </label>
 </div>
 `;
+
+exports[`Checkbox component Matches the snapshot 1`] = `
+<div
+  className="checkbox  "
+  onClick={[Function]}
+  style={
+    Object {
+      "alignItems": "",
+    }
+  }
+>
+  <div
+    className="icon"
+  />
+  <input
+    className="hide"
+    type="checkbox"
+  />
+  <label
+    className="pad-left "
+  >
+    <div
+      className="content"
+    />
+  </label>
+</div>
+`;

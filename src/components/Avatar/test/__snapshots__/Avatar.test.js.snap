@@ -1,5 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Avatar component Matches the snapshot 1`] = `
+<div
+  className="avatar "
+>
+  <div
+    className="bg-image"
+    style={
+      Object {
+        "backgroundImage": "url(undefined)",
+      }
+    }
+  />
+</div>
+`;
+
 exports[`Button component Matches the snapshot 1`] = `
 <div
   className="avatar "

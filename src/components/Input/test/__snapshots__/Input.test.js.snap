@@ -22,3 +22,26 @@ exports[`Button component Matches the snapshot 1`] = `
   </div>
 </div>
 `;
+
+exports[`Input component Matches the snapshot 1`] = `
+<div
+  className="sc-input-container  no-label"
+>
+  <div
+    className="d-flex align-left flex1"
+  >
+    <div
+      className="input-container "
+    >
+      <input
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyPress={[Function]}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;

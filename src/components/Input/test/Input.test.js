@@ -2,9 +2,9 @@ import React from 'react'
 import { create } from 'react-test-renderer'
 import Input from '../Input'
 
-describe('Button component', () => {
+describe('Input component', () => {
   test('Matches the snapshot', () => {
-    const button = create(<Input />)
-    expect(button.toJSON()).toMatchSnapshot()
+    const input = create(<Input />)
+    expect(input.toJSON()).toMatchSnapshot()
   })
 })

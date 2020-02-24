@@ -1,0 +1,269 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeliveryMessage component Matches the snapshot 1`] = `
+<div
+  className="panel delivery-message"
+>
+  <p
+    className="text black uppercase"
+  >
+    Delivery default message
+  </p>
+  <div
+    className="d-flex mt-1"
+  >
+    <div
+      className="checkbox checked mr-1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "",
+        }
+      }
+    >
+      <div
+        className="icon"
+      />
+      <input
+        className="hide"
+        type="checkbox"
+      />
+      <label
+        className="pad-left "
+      >
+        <div
+          className="content"
+        />
+      </label>
+    </div>
+    <div
+      className="sc-input-container flex1 no-label"
+    >
+      <div
+        className="d-flex align-left flex1"
+      >
+        <div
+          className="input-container "
+        >
+          <input
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyPress={[Function]}
+            placeholder="Write your message"
+            type="text"
+            value="Lorem ipsum is dolor assets"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex mt-1"
+  >
+    <div
+      className="checkbox  mr-1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "",
+        }
+      }
+    >
+      <div
+        className="icon"
+      />
+      <input
+        className="hide"
+        type="checkbox"
+      />
+      <label
+        className="pad-left "
+      >
+        <div
+          className="content"
+        />
+      </label>
+    </div>
+    <div
+      className="sc-input-container flex1 no-label"
+    >
+      <div
+        className="d-flex align-left flex1"
+      >
+        <div
+          className="input-container "
+        >
+          <input
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyPress={[Function]}
+            placeholder="Write your message"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex mt-1"
+  >
+    <div
+      className="checkbox  mr-1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "",
+        }
+      }
+    >
+      <div
+        className="icon"
+      />
+      <input
+        className="hide"
+        type="checkbox"
+      />
+      <label
+        className="pad-left "
+      >
+        <div
+          className="content"
+        />
+      </label>
+    </div>
+    <div
+      className="sc-input-container flex1 no-label"
+    >
+      <div
+        className="d-flex align-left flex1"
+      >
+        <div
+          className="input-container "
+        >
+          <input
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyPress={[Function]}
+            placeholder="Write your message"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex mt-1"
+  >
+    <div
+      className="checkbox  mr-1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "",
+        }
+      }
+    >
+      <div
+        className="icon"
+      />
+      <input
+        className="hide"
+        type="checkbox"
+      />
+      <label
+        className="pad-left "
+      >
+        <div
+          className="content"
+        />
+      </label>
+    </div>
+    <div
+      className="sc-input-container flex1 no-label"
+    >
+      <div
+        className="d-flex align-left flex1"
+      >
+        <div
+          className="input-container "
+        >
+          <input
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyPress={[Function]}
+            placeholder="Write your message"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex mt-1"
+  >
+    <div
+      className="checkbox  mr-1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "",
+        }
+      }
+    >
+      <div
+        className="icon"
+      />
+      <input
+        className="hide"
+        type="checkbox"
+      />
+      <label
+        className="pad-left "
+      >
+        <div
+          className="content"
+        />
+      </label>
+    </div>
+    <div
+      className="sc-input-container flex1 no-label"
+    >
+      <div
+        className="d-flex align-left flex1"
+      >
+        <div
+          className="input-container "
+        >
+          <input
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyPress={[Function]}
+            placeholder="Write your message"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <a
+    className="btn  small gray1 mt-2"
+    href="javascript: void(0)"
+    onClick={[Function]}
+  >
+    <span
+      className="text  black small"
+    >
+      Update
+    </span>
+  </a>
+</div>
+`;
